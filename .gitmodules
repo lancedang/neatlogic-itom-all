@@ -4,9 +4,6 @@
 [submodule "neatlogic-autoexec-base"]
 	path = neatlogic-autoexec-base
 	url = ../neatlogic-autoexec-base.git
-[submodule "neatlogic-change"]
-	path = neatlogic-change
-	url = ../neatlogic-change.git
 [submodule "neatlogic-change-base"]
 	path = neatlogic-change-base
 	url = ../neatlogic-change-base.git
