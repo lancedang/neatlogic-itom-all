@@ -82,9 +82,3 @@
 [submodule "neatlogic-rdm-base"]
 	path = neatlogic-rdm-base
 	url = ../neatlogic-rdm-base.git
-[submodule "neatlogic-codehub-base"]
-	path = neatlogic-codehub-base
-	url = ../neatlogic-codehub-base.git
-[submodule "neatlogic-codehub"]
-	path = neatlogic-codehub
-	url = ../neatlogic-codehub.git
